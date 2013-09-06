@@ -1,0 +1,20 @@
+{
+  "files": [
+    "claims-draft.md",
+    "content.md",
+    "direct-sandbox.md",
+    "download.md",
+    "receive.md",
+    "snapshot.md",
+    "transmit-using-direct.md"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "print"
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
